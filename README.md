@@ -1,6 +1,6 @@
 # Statistics-Reading-Group
 
-- Time: 1-2 p.m., every Friday
+- Time: 1-2 p.m., every Monday
 - Location: Crisp 2084
 - Books: Statistical Rethinking 2nd (SR)
 
