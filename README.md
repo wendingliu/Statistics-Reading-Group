@@ -12,5 +12,6 @@
 | SR Chapter 6   | Wending Liu       | 16/06/2025 |   [slides](./ch6/)                 | 6H3-6H5   |
 | SR Chapter 7  (part 1) | Charley Xia       | 01/08/2025 |                    |   |
 | SR Chapter 7  (part 2) | Charley Xia       | 08/08/2025 |                    |   |
+| SR Chapter 8 | Wending Liu     | 15/08/2025 |                    |   |
 
 
