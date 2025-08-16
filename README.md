@@ -1,7 +1,7 @@
 # Statistics-Reading-Group
 
 - Time: 4-5 p.m., every Friday
-- Location: RSE Seminar Room
+- Location: PhD Room, Crisp Bld
 - Books: Statistical Rethinking 2nd (SR)
 
 | Topic          | Speaker           | Date       | Slides             | Questions |
