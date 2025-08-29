@@ -13,5 +13,7 @@
 | SR Chapter 7  (part 1) | Charley Xia       | 01/08/2025 |   [slides](https://drive.google.com/file/d/10YhnKm3ashOzXI-MZPRSFqeGqF-FXuXn/view?usp=sharing)                 |   |
 | SR Chapter 7  (part 2) | Charley Xia       | 08/08/2025 |      same as above              |   |
 | SR Chapter 8 | Wending Liu     | 15/08/2025 |     [slides](./ch8/)               |   |
+| SR Chapter 9 (part 1) | Shinsuke Nakagami     | 22/08/2025 |                  |   |
+| SR Chapter 9 (part 2) | Shinsuke Nakagami     | 29/08/2025 |                  |   |
 
 
