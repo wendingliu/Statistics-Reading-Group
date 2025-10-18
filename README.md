@@ -2,7 +2,9 @@
 
 - Time: 4-5 p.m., every Friday
 - Location: PhD Room, Crisp Bld
-- Books: Statistical Rethinking 2nd (SR)
+- Books:
+  - Statistical Rethinking 2nd (SR)
+  - Probabilistic Machine Learning: Advanced Topics (PMLA)
 
 | Topic          | Speaker           | Date       | Slides             | Questions |
 | -------------- | ----------------- | ---------- | ------------------ | --------- |
@@ -16,4 +18,5 @@
 | SR Chapter 9 (part 1) | Shinsuke Nakagami     | 22/08/2025 |                  |   |
 | SR Chapter 9 (part 2) | Shinsuke Nakagami     | 29/08/2025 |                  |   |
 | SR Chapter 10 | Charley Xia     | 19/09/2025 |                  |   |
+| PMLA Chapter 2 (Markov Chain) | Wending Liu |17/10/2025||
 
