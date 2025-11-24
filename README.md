@@ -20,4 +20,5 @@
 | SR Chapter 10 | Charley Xia     | 19/09/2025 |                  |   |
 | PMLA Chapter 2 (Markov Chain) | Wending Liu |17/10/2025||
 | PMLA Chapter 12 (Markov Chain Monte Carlo) | Wending Liu |03/11/2025||
+| SR Chapter 11   | Shinsuke Nakagami | 24/11/2025 |   |           |
 
